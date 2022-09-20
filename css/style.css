@@ -84,6 +84,11 @@ body{
     cursor: pointer;
 }
 
+.btn-main::hover{
+    width: 65%;
+    height: 40%;
+}
+
 .bg-img{
     width: 900px;
     padding-right: 50px;
